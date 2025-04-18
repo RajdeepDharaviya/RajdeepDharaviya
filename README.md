@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajdeepDharaviya
-- 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning NEXT.JS
+- 👀 I’m interested in FullStack Development
+- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me rajdeepdharaviyaclg@gmail.com
 
 
