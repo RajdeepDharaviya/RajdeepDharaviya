@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajdeepDharaviya
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently working in Spring Boot
 - 📫 How to reach me rajdeepdharaviyaclg@gmail.com
 
 
